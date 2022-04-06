@@ -24,7 +24,7 @@ Aqui estão algumas idéias para você começar:
 
 ### Contatos:
 
-<a href = "mailto:thiago_faria@outlook.com"><img src="https://icongr.am/simple/microsoftoutlook.svg?size=128&color=currentColor&colored=false" target="_blank"></a>
+<a href = "mailto:thiago_faria@outlook.com"><img src="https://icongr.am/simple/microsoftoutlook.svg?size=30&color=ffffff&colored=false" target="_blank"></a>
 <a href="https://www.linkedin.com/in/thiago-almeida-4b665956/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
