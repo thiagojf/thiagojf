@@ -16,7 +16,8 @@ Aqui estão algumas idéias para você começar:
 ### Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/> <img src="https://www.media3.net/img/m3/mssql.jpg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" height="60"/> <img src="https://icongr.am/simple/googleanalytics.svg?color=dd0808" width="60" height="60" />  <img src="https://icongr.am/simple/powerbi.svg?size=60&color=fff705&colored=false" /> <img src="https://icongr.am/simple/powershell.svg?size=60&color=0d7dd3&colored=false" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" height="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" height="80"/> 
+<img src="https://user-images.githubusercontent.com/17512287/46575879-3847d100-c9be-11e8-97dc-1d95d880c187.png" width="60" height="60"/>
 
 ### Contatos:
 
