@@ -5,7 +5,7 @@
 
 Aqui estão algumas idéias para você começar:
 
-- 🔭 Atualmente estou trabalhando na Delage Consultoria e Sistemas.
+- 🔭 Atualmente estou trabalhando na Compass Uol.
 - 🌱 Atualmente constante aprendizado e no momento focando em Data Sience e Business intelligence.
 - 👯 Estou procurando colaborar em Data Sience, Business intelligence e Analise de Dados.
 - 💬 Um pouco do meu perfil técnico Database Analyst | Power BI | DAX | Power Query | ETL | Excel | DAX | Business Intelligence | SQL Server | Integration Services (SSIS) | Report Server | PL/SQL
